@@ -1,1 +1,1 @@
-Weather App made using plain HTML, CSS, and JavaScript
+Simple weather app made using plain HTML, CSS, and JavaScript
